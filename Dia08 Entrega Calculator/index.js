@@ -15,7 +15,7 @@ while(inicio === true){
      valor = Number(prompt("Insira o primeiro número:"))
      operacao = (prompt("Escolha a operação(Exponenciação, Multiplicação, divisão, Subtração ou Soma):"))
      valor2 = Number(prompt("Insira o segundo número:"))
-     soma = valor + valor2
+     soma = valor + valor2 
 
 
     if(operacao === "Soma")
